@@ -34,6 +34,7 @@ This is a simple, functional web-based calculator built using HTML, CSS, and Jav
 
 ## Screenshots:
 
+![Screenshot 2025-01-28 055344](https://github.com/user-attachments/assets/b8e82fa5-7712-40d0-9d71-5c8adcc06609)
 
 ## Acknowledgments:
 - Inspiration from basic calculator UI/UX designs
