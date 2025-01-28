@@ -32,8 +32,8 @@ This is a simple, functional web-based calculator built using HTML, CSS, and Jav
 3. Press the `=` button to get the result.
 4. Press `C` to clear the display.
 
-## Contributing:
-Feel free to fork the repository, make changes, and create a pull request. Contributions are welcome!
+## Screenshots:
+
 
 ## Acknowledgments:
 - Inspiration from basic calculator UI/UX designs
